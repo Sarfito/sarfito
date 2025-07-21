@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi Everyone 👋
 
 <!--
 **Sarfito/sarfito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Santiago Alejandro Rojas, I'm currently studyng system ingeeniering at Universidad Nacional de Colombia
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)

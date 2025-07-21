@@ -15,4 +15,4 @@
 -->
 
 My name is Santiago Alejandro Rojas, I'm currently studyng system ingeeniering at Universidad Nacional de Colombia
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,eclipse,github,java,mysql,vscode)](https://skillicons.dev)

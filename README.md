@@ -13,6 +13,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Linkedin ​🏋️​: https://www.linkedin.com/in/santiago-rojas-13362726b/
+My contact number: 3028636839
 
-My name is Santiago Alejandro Rojas, I'm currently studyng system ingeeniering at Universidad Nacional de Colombia
+My name is Santiago Alejandro Rojas, I'm currently studyng systems engineering at Universidad Nacional de Colombia
 [![My Skills](https://skillicons.dev/icons?i=c,py,eclipse,github,java,mysql,vscode)](https://skillicons.dev)

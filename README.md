@@ -30,6 +30,9 @@
 ## 📊 GitHub Stats
 
 ![Sarfito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarfito&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfito&layout=compact&theme=tokyonight)
 
+---
+
+### 🌱 Contribution Graph
+[![Sarfito's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarfito&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
